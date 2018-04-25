@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">APP02_103590054</string>
+    <string name="name">姓名</string>
+    <string name="input_name">輸入姓名</string>
+    <string name="sex">性別</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="question">問卷題目</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="ansyes">回答YES:</string>
+    <string name="ansno">回答NO:</string>
+</resources>
