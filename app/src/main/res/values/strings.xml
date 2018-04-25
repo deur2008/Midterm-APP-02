@@ -6,6 +6,13 @@
     <string name="male">男</string>
     <string name="female">女</string>
     <string name="question">問卷題目</string>
+    <string-array name="question_list">
+        <item>我覺得Android Programming 很有趣</item>
+        <item>我覺得Android Programming 上課很無聊</item>
+        <item>我覺得Android Programming 作業很簡單</item>
+        <item>我覺得Android Programming 上傳作業很麻煩</item>
+        <item>我覺得Android Programming 很複雜</item>
+    </string-array>
     <string name="yes">YES</string>
     <string name="no">NO</string>
     <string name="ansyes">回答YES:</string>
